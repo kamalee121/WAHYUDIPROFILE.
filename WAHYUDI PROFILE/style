@@ -1,0 +1,9 @@
+<div class="card">
+  <img src="profile-picture.jpg" alt="Profile Picture">
+  <h1>John Doe</h1>
+  <p class="title" MAHASISWA, Example</p>
+  <p>UNIVERSITAS MUHAMMADIYAH KENDARI</p>
+  
+  </div>
+  <p><button>Contact</button></p>
+</div>
